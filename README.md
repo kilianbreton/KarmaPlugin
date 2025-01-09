@@ -2,10 +2,10 @@
 YoxKarma Plugin for ManiaControl (ShootMania/TrackMania)
 
 ## Available Commands
-- --
-- -
-- +-
-- +
+- \-\-
+- \-
+- +\-
+- \+
 - ++
 
 
